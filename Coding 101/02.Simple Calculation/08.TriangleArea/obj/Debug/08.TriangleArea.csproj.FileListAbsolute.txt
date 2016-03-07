@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\bin\Debug\08.TriangleArea.exe.config
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\bin\Debug\08.TriangleArea.exe
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\bin\Debug\08.TriangleArea.pdb
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\obj\Debug\08.TriangleArea.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\obj\Debug\08.TriangleArea.exe
+C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\08.TriangleArea\obj\Debug\08.TriangleArea.pdb
